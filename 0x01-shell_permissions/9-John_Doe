@@ -1,3 +1,2 @@
-
-#!/bin/bash
+#!/gbin/bash
 chmod 753 hello
